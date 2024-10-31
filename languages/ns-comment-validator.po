@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ns-comment-validator\n"
+"POT-Creation-Date: 2014-10-06 20:40+0545\n"
+"PO-Revision-Date: 2014-10-06 20:40+0545\n"
+"Last-Translator: Nilambar Sharma <nilambar@outlook.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../ns-comment-validator\n"
+
+#: ../../ns-comment-validator/ns-comment-validator.php:136
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../../ns-comment-validator/ns-comment-validator.php:148
+#: ../../ns-comment-validator/admin/admin.php:16
+msgid "Settings"
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:18
+msgid ""
+"If you dont know how to customize, leave it to default options. Plugin will "
+"work out of the box."
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:24
+msgid "Validation Rules"
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:25
+msgid "Enter Validation Rules"
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:32
+msgid "Error Element"
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:33
+msgid "Select Error Element"
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:44
+msgid "CSS Styling"
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:45
+msgid "Enter CSS Styling"
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:53
+msgid "Error Class"
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:54
+msgid "Enter Error Class"
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:62
+msgid "Validation Messages"
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:63
+msgid "Enter Validation Messages"
+msgstr ""
+
+#: ../../ns-comment-validator/admin/admin.php:70
+msgid "Save Changes"
+msgstr ""
